@@ -3,7 +3,7 @@ Using Machine Learning/ Logistic Regression
 
 Hey Guyz;
 
-so basically the code predicts whether or not someone with specific features survive Titanic or not. The accuracy score is a little more than 80%.
+so basically the code predicts whether or not someone with specific features survive Titanic. The accuracy score is a little more than 80%.
 
 Ive used different packages in this code, such as numpy, pandas and scikitlearn.
 
