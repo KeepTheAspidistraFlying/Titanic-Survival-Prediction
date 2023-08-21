@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-df=pd.read_csv('c:users\hajia\desktop\one.csv')
+df=pd.read_csv( 'https://sololearn.com/uploads/files/one.csv')
 df['Male']=df['Sex']=='male';
 X=df[['Pclass','Male','Age','Siblings/Spouses','Parents/Children','Fare']].values
 y=df['Survived'].values;
